@@ -1,7 +1,7 @@
 
 <p align="center">
    <img src="https://github.com/fqgiord/Resume/blob/main/principal%20image.png" width="1000" />
-  
+  <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img.png" width="1000" />
 </p>
 
 
