@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img2.png?" width="400" />
-   <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img.png" width="400" />
+  <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img2.png?" width="800" />
+   <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img.png" width="200" />
 </p>
 
  
