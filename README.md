@@ -1,13 +1,12 @@
 
 <p align="center">
-   <img src="https://github.com/fqgiord/Resume/blob/main/principal%20image.png" width="1000" />
-  <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img.png" width="1000" />
+  <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img.png" width="800" />
 </p>
 
 
 # portfolio
 
-> Nothing fancy here, just a interesting digital model resume I did to practise HTML, CSS and others features.
+> Hamburger Navbar create to practise a diferent style in a responsive webpage. Usage: HTML, CSS, JavaScript, AI to generate the image.
 + typed.js for typing effect
 
 
