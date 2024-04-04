@@ -8,12 +8,12 @@
 
 # portfolio
 
-> Hamburger Navbar create to practise a diferent style in a responsive webpage. Usage: HTML, CSS, JavaScript, AI to generate the image.
-+ typed.js for typing effect
+> Hamburger Navbar with responsive webpage. Tech: HTML, CSS, JavaScript, AI to generate the image.
 
 
 # technology utilized:
 <div style="display: inline_block">
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fer-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
 </div>
